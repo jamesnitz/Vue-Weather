@@ -1,24 +1,6 @@
 # vue-weather
 ![weather App](./src/assets/images/weatherApp.jpg)
-## Project setup
+## About the app
 ```
-npm install
+This a weather app utilizing the openWeather API, to better understand Vue and fetch calls in Vue.
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
