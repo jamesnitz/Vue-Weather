@@ -1,5 +1,5 @@
 # vue-weather
-![weather App](./assets/images/weatherApp.jpg)
+![weather App](./src/assets/images/weatherApp.jpg)
 ## Project setup
 ```
 npm install
